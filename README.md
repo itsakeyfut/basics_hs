@@ -1,4 +1,4 @@
-# C++ Fundamentals
+# Haskell Fundamentals
 
 [![Status](https://img.shields.io/badge/status-learning--repository-blue?style=flat-square)]()
 
@@ -34,6 +34,10 @@ I am using this project to deepen my understanding of basic Haskell syntax, func
 - Monads (e.g., `IO`, `Maybe`, `List`)
 - `do` notation
 - Modules and imports
+
+## Documentations & Notes
+
+![Why Pure Functions Matter](./docs/basics/PRINCIPLES.md)
 
 ---
 
