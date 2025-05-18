@@ -61,7 +61,6 @@ appLoop todos nextId = do
       putStrLn "Unknown command!"
       appLoop todos nextId
 
--- Todoリストを表示
 displayTodos :: TodoList -> IO ()
 displayTodos todos = do
   putStrLn "\nYour Todos:"
