@@ -37,8 +37,8 @@ I am using this project to deepen my understanding of basic Haskell syntax, func
 
 ## Documentations & Notes
 
-[Introduction to Haskell](./docs/INTRO.md)
-[Why Pure Functions Matter](./docs/basics/PRINCIPLES.md)
+- [Introduction to Haskell](./docs/INTRO.md)
+- [Why Pure Functions Matter](./docs/basics/PRINCIPLES.md)
 
 ---
 

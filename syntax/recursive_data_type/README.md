@@ -80,3 +80,7 @@ data List a = Nil | Cons a (List a)
 | 再帰型データ構造 | 木構造・リスト・AST 表現など |
 | パターンマッチ   | 構造を解体・処理に必要       |
 | 再帰関数         | データ構造を操作する基本技法 |
+
+## More Details
+
+- [再帰型データ構造とは？](./docs/DETAILS.md)
